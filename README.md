@@ -1,3 +1,3 @@
 # Cycle_GAN
 
-!(Sample Output)[horse2zebra_1.png]
+![Sample Output](horse2zebra_1.png)
